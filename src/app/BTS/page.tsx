@@ -13,8 +13,8 @@ const BTS = () => {
           </p>
           <div className="grid gap-8 md:grid-cols-2">
             <div className="rounded-lg bg-slate-50 p-6 shadow-md transition-transform hover:scale-105">
-              <h2 className="mb-2 text-3xl font-bold text-slate-800 md:text-4xl">SLAM</h2>
-              <h3 className="mb-4 text-xl font-semibold text-slate-600">Solutions Logicielles et Applications Métiers</h3>
+              <h2 className="mb-2 text-3xl font-bold text-slate-800 md:text-4xl">SISR</h2>
+              <h3 className="mb-4 text-xl font-semibold text-slate-600">Solutions d infrastructure, systèmes et réseaux</h3>
               <p className="text-slate-700">
                 L’option SISR du BTS SIO forme des professionnels capables de concevoir, déployer et maintenir des infrastructures réseau et des systèmes informatiques. Elle prépare les étudiants à assurer l’installation, la configuration, la gestion et la sécurisation des réseaux d’une organisation. Les compétences acquises incluent l’administration de serveurs, la virtualisation, la sécurité des systèmes d’information, et l’assistance technique.
 
@@ -22,8 +22,8 @@ const BTS = () => {
               </p>
             </div>
             <div className="rounded-lg bg-slate-50 p-6 shadow-md transition-transform hover:scale-105">
-              <h2 className="mb-2 text-3xl font-bold text-slate-800 md:text-4xl">SISR</h2>
-              <h3 className="mb-4 text-xl font-semibold text-slate-600">Solutions d infrastructure, systèmes et réseaux</h3>
+              <h2 className="mb-2 text-3xl font-bold text-slate-800 md:text-4xl">SLAM</h2>
+              <h3 className="mb-4 text-xl font-semibold text-slate-600">Solutions Logicielles et Applications Métiers</h3>
               <p className="text-slate-700">
                 L’option SLAM du BTS SIO forme des spécialistes du développement logiciel et des applications métiers. Les étudiants apprennent à analyser les besoins d’une organisation, rédiger des spécifications techniques, développer des solutions logicielles adaptées, et les intégrer dans l’environnement professionnel. Cette formation couvre également la maintenance et l’évolution des applications existantes.
 
